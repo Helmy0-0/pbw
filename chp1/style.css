@@ -1,0 +1,21 @@
+h2{
+    color:yellow;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+*{
+    margin: 8px;
+    padding: 10px;
+}
+
+.mangan{
+    color: purple;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#hati{
+    color:red;
+    font-weight: bold;
+}
